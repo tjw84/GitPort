@@ -2,24 +2,21 @@
 Consolidation of other sets of code for easy visual viewing and comparing between different coding languages
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
+For now this will just have "Hello World" in C++ but as time goes on several other languages are planned to be added with more complete and complicated code written as similarly as possible to compare how to do things the same way across languages as well as show case things specific to each
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World C++](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Visual Studio Code, Github (obviously), Youtube, and Microsoft Edge to develop, explain, and showcase this software.
 
-{Describe the programming language that you used}
+- Hello World, C ++
+- ...
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Chatgpt](https://chat.openai.com/)
+* [geeksforgeeks](https://www.geeksforgeeks.org/cout-in-c/)
