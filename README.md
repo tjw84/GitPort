@@ -1,5 +1,5 @@
 # GitPort
-Consolidation of other sets of code for easy visual viewing
+Consolidation of other sets of code for easy visual viewing and comparing between different coding languages
 # Overview
 
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
